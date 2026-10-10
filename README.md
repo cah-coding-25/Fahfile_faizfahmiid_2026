@@ -50,7 +50,12 @@ Berdasarkan antarmuka aplikasi (*Hubungkan ke Desktop*), berikut adalah rincian 
 * **Indikator:** Menampilkan jumlah aktivitas (misalnya `Lihat (0)`) untuk melacak perangkat mana saja yang terhubung atau mengunduh file dari ponsel Anda.
 
 ---
-
+## 🚀 Cara unduh aplikasinya
+1. cari file realis terbaru di opsi realis github
+2. lalu donload filenya.
+3. instal aplikasinya seperti instal aplikasi android lainnya
+4. aplikasi Fahfile siap digunakan
+---
 ## 🚀 Cara Penggunaan Singkat
 1. Hubungkan Android dan Laptop ke jaringan Wi-Fi yang sama.
 2. Buka aplikasi dan atur folder yang ingin dibagikan.
